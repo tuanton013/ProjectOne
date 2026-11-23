@@ -9,7 +9,7 @@ Develop a Salesforce application that enables customers and support representati
 Done 1. Build a Salesforce application for customer support ticket management. 
 Done 2. Maintain customer information and support ticket details.
 Done 3. Allow support representatives to create tickets with an issue category, description, and priority.
-4. Automatically assign tickets to support agents based on issue category or priority.
+Done 4. Automatically assign tickets to support agents based on issue category or priority.
 Done 5. Validate ticket records to ensure required information is provided.
 Done 6. Allow agents to update ticket statuses and record resolution details.
 7. Automatically escalate high-priority tickets and tickets that remain unresolved beyond a defined period.
@@ -17,7 +17,7 @@ Done 6. Allow agents to update ticket statuses and record resolution details.
 Done 9. Publish ticket status and escalation changes as platform events and maintain an escalation/status history.
 10. Use asynchronous processing to create follow-up tasks or send notifications for unresolved tickets.
 11. Provide search to locate tickets by customer details, ticket number, or issue description.
-12. Apply role-appropriate access for support agents, team leads, and administrators.
+Done 12. Apply role-appropriate access for support agents, team leads, and administrators.
 13. Provide an Agentforce assistant so support representatives can retrieve ticket information and check ticket status.
 14. Use generative AI to summarize customer issues and suggest possible resolutions.
 
